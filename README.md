@@ -4,5 +4,5 @@
 
 ## Hello folks learning git commit and git stashig. Level - 2
 
-- git is awesom
+- git is awesome
 - git is good
